@@ -56,4 +56,5 @@ $ - переводить из любой системы счисления в д
 Программа написана на языке Питон с использованием библиотеки sys
 
 ![Умный бобёр](beaver.png)
-<oembed>https://youtu.be/DXDoKgyhySc
+
+<video>https://youtu.be/DXDoKgyhySc</video>
