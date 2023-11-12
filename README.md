@@ -57,4 +57,4 @@ $ - переводить из любой системы счисления в д
 
 ![Умный бобёр](beaver.png)
 
-<video>https://youtu.be/DXDoKgyhySc</video>
+<oembed>https://youtu.be/DXDoKgyhySc</oembed>
